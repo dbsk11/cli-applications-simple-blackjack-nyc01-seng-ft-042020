@@ -63,5 +63,7 @@ end
 
 def runner
   welcome
-  card_total = # code runner here
+  card_total > 21  
+  prompt_user
+  # code runner here
 end
