@@ -61,7 +61,7 @@ end
 # get every test to pass before coding runner below #
 #####################################################
 
-# def runner
-#   welcome
-#   card_total = # code runner here
-# end
+def runner
+  welcome
+  card_total = # code runner here
+end
