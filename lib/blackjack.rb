@@ -27,6 +27,9 @@ end
 
 def initial_round
   # code #initial_round here
+  puts
+  return
+  
 end
 
 def hit?
