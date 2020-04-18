@@ -63,5 +63,6 @@ end
 #####################################################
 
 def runner
-  # code runner here
+  welcome
+  card_total = # code runner here
 end
